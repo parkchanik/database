@@ -37,7 +37,7 @@ USE ODIN;
  
 	DECLARE v_error_no 		INT DEFAULT 0;
     	DECLARE v_message 		TEXT;
-	DECLARE v_sql_state 	VARCHAR(5);
+	DECLARE v_sql_state 		VARCHAR(5);
        
    	DECLARE v_return		INT DEFAULT 0;
     
